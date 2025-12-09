@@ -151,7 +151,8 @@ ISC
 
 **IdkDom**
 
-- GitHub: [@dgehrking](https://github.com/dgehrkin)
+- GitHub: [@dgehrkin](https://github.com/dgehrkin)
+- Hypixel Forums: [@TurkishMenace](https://hypixel.net/members/turkishmenace.6753958/)
 
 ## Links
 
