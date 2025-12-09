@@ -141,7 +141,7 @@ The bot uses hardcoded channel IDs for notifications. You may need to update the
 
 ## Contributing
 
-This is a work in progress. Suggestions and contributions are welcome! If you have ideas or find bugs, please open an issue or contact @idkdom.
+This is a work in progress. Suggestions and contributions are welcome! If you have ideas or find bugs, please open an issue.
 
 ## License
 
@@ -151,14 +151,13 @@ ISC
 
 **IdkDom**
 
-- GitHub: [@dgehrking](https://github.com/dgehrking)
-- Discord: @idkdom
+- GitHub: [@dgehrking](https://github.com/dgehrkin)
 
 ## Links
 
 - [Extra Hearts Guild Website](https://extraheartsguild.webnode.com/)
-- [Repository](https://github.com/dgehrking/ExtraHeartsBot)
-- [Issues](https://github.com/dgehrking/ExtraHeartsBot/issues)
+- [Repository](https://github.com/dgehrkin/ExtraHeartsBot)
+- [Issues](https://github.com/dgehrkin/ExtraHeartsBot/issues)
 
 ## Notes
 
